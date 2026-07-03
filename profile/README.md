@@ -22,3 +22,9 @@
 ## Main repository
 
 - [codealmanac](https://github.com/AlmanacCode/codealmanac): self-updating codebase wikis for coding agents.
+
+## Community
+
+- [X / Twitter](https://x.com/usealmanac)
+- [LinkedIn](https://www.linkedin.com/company/codealmanac)
+- Discord: coming soon

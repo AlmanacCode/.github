@@ -17,7 +17,7 @@
 - [Install the CLI](https://github.com/AlmanacCode/codealmanac)
 - [Star `codealmanac`](https://github.com/AlmanacCode/codealmanac)
 - [Visit the website](https://codealmanac.com)
-- Join Discord: coming soon
+- [Join Discord](https://discord.gg/jjuxtrGvJ)
 
 ## Main repository
 
@@ -27,4 +27,4 @@
 
 - [X / Twitter](https://x.com/usealmanac)
 - [LinkedIn](https://www.linkedin.com/company/codealmanac)
-- Discord: coming soon
+- [Discord](https://discord.gg/jjuxtrGvJ)

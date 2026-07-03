@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Almanac</title>
+  <desc id="desc">Self-updating wikis for coding agents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.56" stop-color="#10251f"/>
+      <stop offset="1" stop-color="#123c2d"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#2ea043" stroke-opacity="0.16" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+  <g transform="translate(80 78)">
+    <rect x="0" y="0" width="164" height="204" rx="18" fill="#161b22" stroke="#2ea043" stroke-width="3"/>
+    <path d="M38 46h54c20 0 34 12 34 30v82c-9-8-21-12-34-12H38z" fill="none" stroke="#7ee787" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M38 46v112h54c13 0 25 4 34 12" fill="none" stroke="#2ea043" stroke-width="4" stroke-linecap="round"/>
+    <path d="M60 80h38M60 112h48" stroke="#f0f6fc" stroke-opacity="0.88" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(292 106)">
+    <text x="0" y="0" fill="#f0f6fc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="76" font-weight="800">Almanac</text>
+    <text x="0" y="72" fill="#c9d1d9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="600">Self-updating wikis for coding agents.</text>
+    <text x="0" y="128" fill="#8b949e" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="24">codealmanac.com</text>
+  </g>
+</svg>
